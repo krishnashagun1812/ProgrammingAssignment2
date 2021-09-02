@@ -8,7 +8,6 @@
 ## Step 4. To get the value of the invers matrix
 
 
-
 makeCacheMatrix <- function(x = matrix()) {
   i <- NULL
   set <- function(y) {
